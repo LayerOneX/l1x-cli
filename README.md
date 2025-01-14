@@ -1,6 +1,10 @@
-# L1X CLI (Beta)
+# L1X VM CLI (Command Line Toolkit)
 
-L1X CLI (Beta) is a command-line interface tool that allows you to interact with the L1X blockchain network. It provides a convenient way to manage accounts and wallets, deploy and interact with smart contracts, and perform various transactions on the L1X network.
+A robust CLI tool for compiling, deploying, and managing L1X VM smart contracts.
+
+# Description
+
+This Command Line Interface simplifies blockchain interactions by allowing developers to deploy, and manage smart contracts on the L1X VM effortlessly. A vital tool for developers looking for precision and automation in their workflows.
 
 ## Installation
 
