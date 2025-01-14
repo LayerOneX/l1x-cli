@@ -8,7 +8,7 @@
   "homepage": "https://github.com/L1X-Foundation/l1x-cli.git",
   "bugs": "https://github.com/L1X-Foundation/l1x-cli/issues",
   "repository": "https://github.com/L1X-Foundation/l1x-cli.git",
-  "license": "Apache License 2.0",
+  "license": "Polyform-Perimeter-1.0.0",
   "author": "L1XFoundation",
   "type": "module",
   "exports": "./lib/index.js",
